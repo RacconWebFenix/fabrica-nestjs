@@ -14,6 +14,6 @@ export class MessagesService {
   ];
 
   findAll() {
-      return this.messages
+    return this.messages;
   }
 }
